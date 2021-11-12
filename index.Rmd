@@ -23,7 +23,7 @@ Nacionalidad: Mexicana
 
 
 ## Formación Académica
-Mastría en Tecnologías de la Información  
+Maestría en Tecnologías de la Información  
 2008-2010  
 
 ## Contacto y redes sociales
@@ -32,44 +32,22 @@ Correo electrónico: alquicir@ccg.unam.mx
 ![](./img/Twitter_icon.png)Twitter: [shirley_ah](https://twitter.com/shirley_ah)  
 
 
+## Reporte
+
+En este documento podrás encontrar los resultados del análisis realizado en la práctica.  
+Para ver el contenido hacer clic [aquí](./docs/reporteClase.pdf)
 
 
+## Gráficas
 
+Histograma:  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
+```{r}
+hist(iris$Sepal.Length)
 ```
 
-## Including Plots
+Plot:  
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r}
+plot(iris$Sepal.Length, iris$Petal.Length, col = iris$Species)
 ```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
