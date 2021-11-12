@@ -25,8 +25,8 @@ Mastría en Tecnologías de la Información
 
 ## Contacto y redes sociales
 Correo electrónico: alquicir@ccg.unam.mx  
-Facebook: shirley.alquicira.1  
-Twitter: shirley_ah  
+![](./img/facebook_icon.png)Facebook: [shirley.alquicira.1](https://www.facebook.com/shirley.alquicira.1)    
+![](./img/Twitter_icon.png)Twitter: [shirley_ah](https://twitter.com/shirley_ah)  
 
 
 
